@@ -1,5 +1,10 @@
 # Intel-NUC-NUC9i9QNX  
 
+Coffee Lake	  
+SSDT-PLUG  
+SSDT-EC-USBX  
+SSDT-AWAC  
+SSDT-PMC  
 
 ## Doc
 ![UserGuide](Doc/NUC9xyQNX_UserGuide.pdf)  
