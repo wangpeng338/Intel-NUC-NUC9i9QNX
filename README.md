@@ -9,7 +9,8 @@
 
 
 ## AIDA64
-
+Report—nuc9.htm
+![Report](Doc/Report—nuc9.htm)  
 
 
   
